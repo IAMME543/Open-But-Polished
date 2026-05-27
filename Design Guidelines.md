@@ -8,7 +8,7 @@
 	Every implementation is to be noted for future reference and consistently followed throughout designs.
 3. Familiar and Unique
 
-	A design should not be unique for the sake of being unique but for the purpose of being a more coherent design. Additionally there is no need to completely overhaul existing standards or common implementations if there is no benefit.
+	A design should not be unique for the sake of being unique but for the purpose of being a more coherent design. Additionally there is no need to completely overhaul existing standards or common implementations if there is no benefit, but this may be excused given a change in class of tool and audience.
 4. Adaptability
 
 	A maintained design has no reason to be left behind if future guidelines update or change in a way that meaningfully influences the existing design. Additionally this serves this document, there is no reason for principals to be frozen in time if they become obsolete.
