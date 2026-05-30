@@ -10,3 +10,7 @@
 What else is integral to a typical system suite?
 
 This message is intended for the addressee named and may contain privileged information or confidential information or both. If you are not the intended recipient, please delete it and notify the sender. 
+
+# And How To Make It?
+
+The first app of this project was [SetThings](https://github.com/IAMME543/Set-Things). Which was built in Tauri, with typescript and no frontend framework. 
