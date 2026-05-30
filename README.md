@@ -22,4 +22,4 @@ Implementations are the method of achieving a standard given a specific context 
 TBD
 
 # Existing Apps
-* [Set Things (settings)] (https://github.com/IAMME543/Set-Things)
+* [Set Things (settings)](https://github.com/IAMME543/Set-Things)
