@@ -5,6 +5,7 @@
 4. Software Installer
 5. File Manager
 6. Rofi & Waybar Dotfiles
+7. Email Client
 
 
 What else is integral to a typical system suite?
