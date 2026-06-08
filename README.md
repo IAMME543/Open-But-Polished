@@ -21,5 +21,6 @@ Implementations are the method of achieving a standard given a specific context 
 
 TBD
 
-# Existing Apps
+# Existing Projects
 * [Set Things (settings)](https://github.com/IAMME543/Set-Things)
+* [Dotfiles (configuring Sway, Waybar and Fuzzel)](https://github.com/IAMME543/dotfiles)
