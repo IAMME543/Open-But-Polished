@@ -1,3 +1,10 @@
+**Depricated**
+
+
+
+
+
+
 This work is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0)
 # Open But Polished
 Why must an open ecosystem of software have such inconsistency in user-experience, and design language? There should be no reason open software cannot be as polished or as cohesive as proprietary alternatives. Therefore, lets make it polished.
